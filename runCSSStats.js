@@ -2,7 +2,7 @@ const fs = require('fs')
 const postcss = require('postcss')
 const cssstats = require('cssstats')
  
-/* Include path to the CSS file you want to run colorguard on */
+/* Include path to the CSS file you want to run cssstats on */
 const css = fs.readFileSync(<PATH_TO_YOUR_CSS_FILE>, 'utf8')
 
 postcss()
