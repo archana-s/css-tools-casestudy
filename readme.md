@@ -1,4 +1,7 @@
-# CSSStats Case Study
+# Project files for O'Reilly Learning Path: Applying and Measuring Your CSS Against Your Style Guide
+This includes all the js files used in the [O'Reilly course]()
 
-* This has a template set up for using CSSStats through node.js
-* This is material for O'reilly Learning Path on building and maintaining CSS style guides.
+## Course Reference
+The videos referencing these files include:
+[Link1]()
+[Link2]()
